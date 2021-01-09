@@ -1,5 +1,7 @@
 # jwt-auth-example
 
+Forked from Ben Awad's repository.
+
 Code for https://www.youtube.com/watch?v=25GS0MLT8JU
 
 ## Make sure to setup PostgreSQL for the GraphQL server
